@@ -1,6 +1,3 @@
-                                                  #NAME: LOKESHVARAN S
-                                                  #REG NO: 212223040105
-                                                
 
 #EX-03 Correlation and regression for data analysis
 # Aim : 
